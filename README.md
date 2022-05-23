@@ -19,17 +19,21 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolandsall&" alt="rolandsall" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolandsall&" alt="rolandsall" /></a> 
+</p>
 
 
 
 ## Github Activities
 
 <p align="center">
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rolandsall&count_private=true&show_icons=true&include_all_commits=true)
   
+
+ <img src="https://github-readme-stats.vercel.app/api?username=rolandsall&count_private=true&show_icons=true&include_all_commits=true" alt="rolandsall" />
 </p>
+
+  
 
 
 
