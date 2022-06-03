@@ -1,4 +1,4 @@
-<h2 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Roland</a></h2>
+<h2 align="center">Hello There! I'm Roland</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/roland-salloum-09687b188/">LinkedIn</a> 
 </p>
