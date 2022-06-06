@@ -7,7 +7,7 @@
 
 **Personal Information:**
 
-- 🌱  I’m currently in the process of Understanding && Implementing Microservices solutions
+- 🌱  I’m currently in the process of Understanding and Implementing Microservices solutions
 - 📫  How to reach me: roland.salloum00@outlook.com.
 
 ***
