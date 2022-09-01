@@ -8,7 +8,7 @@
 **Personal Information:**
 
 - 🌱  I’m currently in the process of Understanding and Implementing Microservices/DDD solutions
-- 📫  How to reach me: roland.salloum00@outlook.com.
+- 📫  How to reach me: roland.salloum00@outlook.com
 
 ***
 
@@ -32,7 +32,6 @@
 <a> <img align="left" src="https://github.com/RolandSall/RolandSall/blob/main/assets/jetbrains.svg" alt="jetbrains" height="42px"/> </a> 
 <a> <img align="left" src="https://github.com/RolandSall/RolandSall/blob/main/assets/mailchimp-freddie.svg" alt="mailchimp-freddie" height="42px"/> </a> 
 <a> <img align="left" src="https://github.com/RolandSall/RolandSall/blob/main/assets/swagger.svg" alt="swagger" height="42px"/> </a> 
-
 <br><br><br><br>
 
 ## My Current Activities
