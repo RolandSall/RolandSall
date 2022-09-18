@@ -8,7 +8,7 @@
 **Personal Information:**
 
 - 🌱  I’m currently in the process of Understanding and Implementing Microservices/DDD solutions
-- 🌱  Next Language To Learn: RUST
+- 📖  Next Language To Learn: RUST
 - 📫  How to reach me: roland.salloum00@outlook.com
 
 ***
