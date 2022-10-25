@@ -9,6 +9,7 @@
 
 - 🌱  I’m currently in the process of Understanding and Implementing Microservices/DDD solutions
 - 📖  Language That Am Currently Learning: RUST
+- 🔎  Framework That Am Currently Investigating: Nest.js 
 - 📫  How to reach me: roland.salloum00@outlook.com
 
 ***
