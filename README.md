@@ -1,15 +1,23 @@
 <h2 align="center">Hello There! I'm Roland</a></h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/roland-salloum-09687b188/">LinkedIn</a> 
 </p>
+
+**Free Time Explorations:**
+
+[Clean Template](https://github.com/clean-templates)  is a GitHub organization that I created, which hosts several repositories covering a wide range of interesting topics. These topics include testing applications, setting up a Kafka cluster, RabbitMQ, Elastic Search, and other useful technologies that you may find applicable in your daily life. I would be grateful for your support of this organization, and please feel free to suggest any template topics that you would like to see added.
+
+
+
 
 
 
 **Personal Information:**
 
-- 🌱  I’m currently in the process of Understanding and Implementing Microservices/DDD solutions
+- 🌱  I’m currently in the process of Understanding and Implementing Event Driven Microservices
 - 📖  Language That Am Currently Learning: RUST
-- 🔎  Framework That Am Currently Investigating: Nest.js 
+- 🔎  Framework That Am Currently Using: Spring Boot
 - 📫  How to reach me: roland.salloum00@outlook.com
 
 ***
