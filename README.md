@@ -16,7 +16,7 @@
 **Personal Information:**
 
 - 🌱  I’m currently in the process of Understanding and Implementing Event Driven Microservices
-- 📖  Language That Am Currently Learning: RUST
+- 📖  Language That Am Currently Learning: NA
 - 🔎  Framework That Am Currently Using: Spring Boot
 - 📫  How to reach me: roland.salloum00@outlook.com
 
