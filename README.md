@@ -48,27 +48,13 @@
 <a> <img align="left" src="https://github.com/RolandSall/RolandSall/blob/main/assets/swagger.svg" alt="swagger" height="42px"/> </a> 
 <br><br><br><br>
 
-## My Current Activities
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rolandsall" alt="rolandsall" /></p>
-
-<br>
-
-## :trophy: Git profile Trophies
+## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolandsall&" alt="rolandsall" /></a> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RolandSall&theme=github_dark" alt="Roland's GitHub activity summary">
 </p>
-
-
-
-## Github Activities
 
 <p align="center">
-  
-
- <img src="https://github-readme-stats.vercel.app/api?username=rolandsall&count_private=true&show_icons=true&include_all_commits=true" alt="rolandsall" />
+  <img src="https://streak-stats.demolab.com/?user=RolandSall&theme=github-dark-blue&hide_border=true" alt="Roland's GitHub contribution streak">
 </p>
-
-  
-
 
