@@ -12,7 +12,9 @@
 
 [Clean Template](https://github.com/clean-templates)  is a GitHub organization that I created, which hosts several repositories covering a wide range of interesting topics. These topics include testing applications, setting up a Kafka cluster, RabbitMQ, Elastic Search, and other useful technologies that you may find applicable in your daily life. I would be grateful for your support of this organization, and please feel free to suggest any template topics that you would like to see added.
 
+**Open Source Library:**
 
+[Nest Mediator](https://www.npmjs.com/~nest-mediator) is a library that I maintain. It provides a lightweight CQRS mediator for NestJS applications, with optional event sourcing support for PostgreSQL and SQL Server.
 
 
 
@@ -57,4 +59,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RolandSall&theme=github-dark-blue&hide_border=true" alt="Roland's GitHub contribution streak">
 </p>
-
