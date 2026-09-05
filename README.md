@@ -1,7 +1,11 @@
 <h2 align="center">Hello There! I'm Roland</a></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roland-salloum-09687b188/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/roland-salloum-09687b188/">LinkedIn</a>
+  <br>
+  <a href="https://user-badge.committers.top/lebanon_private/RolandSall">
+    <img src="https://user-badge.committers.top/lebanon_private/RolandSall.svg" alt="committers.top Lebanon ranking badge">
+  </a>
 </p>
 
 **Free Time Explorations:**
@@ -66,6 +70,5 @@
 </p>
 
   
-
 
 
