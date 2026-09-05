@@ -14,7 +14,7 @@
 
 **Open Source Library:**
 
-[Nest Mediator](https://www.npmjs.com/~nest-mediator) is a library that I maintain. It provides a lightweight CQRS mediator for NestJS applications, with optional event sourcing support for PostgreSQL and SQL Server.
+[Nest Mediator](https://www.npmjs.com/package/@nest-mediator/core) is a library that I maintain. It provides a lightweight CQRS mediator for NestJS applications, with optional event sourcing support for PostgreSQL and SQL Server.
 
 
 
