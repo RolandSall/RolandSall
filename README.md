@@ -14,9 +14,8 @@
 
 **Open Source Libraries:**
 
-[Nest Mediator](https://www.npmjs.com/package/@nest-mediator/core) is a library that I maintain. It provides a lightweight CQRS mediator for NestJS applications, with optional event sourcing support for PostgreSQL and SQL Server.
-
-I also maintain [Testcontainers Integration](https://www.npmjs.com/package/@integration-testing/testcontainers), which provides typed, run-scoped Testcontainers lifecycle management for Vitest, Jest, and Node.js backends.
+- [Nest Mediator](https://www.npmjs.com/package/@nest-mediator/core) is a library that I maintain. It provides a lightweight CQRS mediator for NestJS applications, with optional event sourcing support for PostgreSQL and SQL Server.
+- I also maintain [Testcontainers Integration](https://www.npmjs.com/package/@integration-testing/testcontainers), which provides typed, run-scoped Testcontainers lifecycle management for Vitest, Jest, and Node.js backends.
 
 
 
