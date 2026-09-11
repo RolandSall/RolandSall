@@ -16,6 +16,7 @@
 
 - [Nest Mediator](https://www.npmjs.com/package/@nest-mediator/core) provides a lightweight CQRS mediator for NestJS applications, with optional event sourcing support for PostgreSQL and SQL Server.
 - [Testcontainers Integration](https://www.npmjs.com/package/@integration-testing/testcontainers) provides typed, run-scoped Testcontainers lifecycle management for Vitest, Jest, and Node.js backends.
+- [Data Isolation](https://www.npmjs.com/package/@integration-testing/data-isolation) provides rollback-only transaction isolation for database integration tests across Jest and Vitest, with adapters for pg, Prisma, and TypeORM.
 
 
 
